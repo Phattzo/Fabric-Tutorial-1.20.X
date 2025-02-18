@@ -39,11 +39,4 @@ replay_*.log
 *.hprof
 *.jfr
 
-.vs/
-*.dtbcache.v2
-*.futdcache.v2
-*.exe
-*.tar
-*.zip
-*.log
 
